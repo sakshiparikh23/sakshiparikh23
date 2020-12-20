@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/desaidhruv/desaidhruv/master/hello.gif" width="250" height="200">
-### Hi there, !'m Sakshi Parikh 👋
+# Hi there, !'m Sakshi Parikh 👋
 <br>
 <a href="https://twitter.com/sakshi70437994">
   <img align="left" alt="Dhruv Desai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
