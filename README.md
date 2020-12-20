@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/desaidhruv/desaidhruv/master/hello.gif">
+<img src="https://raw.githubusercontent.com/desaidhruv/desaidhruv/master/hello.gif" width="250" height="200">
 ### Hi there, !'m Sakshi Parikh 👋
 <br>
 <a href="https://twitter.com/sakshi70437994">
