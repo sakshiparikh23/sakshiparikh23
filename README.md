@@ -16,12 +16,25 @@
 <br>
 
 
-- 🔭 I’m a Backend Developer.
-- 🌱 I’m currently learning Django.
-- 👯 I’m looking for growth .
-- 💬 Ask me about : Web development stuff.
-- 🤔 Currently I am looking for internships and .
-- ⚡ Fun fact: This feature is really cool.
+👋Hello! I am Sakshi Parikh. I consider myself as a determined and hard working student. I am an experienced developer skilled in C, C++, Java, Python,Javascript, CSS,HTML.
+
+💼I am looking for growth. Currently, I am looking for internships and research projects in the field of Computer science and engineering.
+
+💻My activities are much beyond and unique. I have been part of India's largest hackathon which is SIH 2019 where I was one of the finalist.
+
+💼Also, I have participated in other Hackathon's naming DJSCE, IIT Bombay and MIT Pune.
+
+💻 Hands-on experience in back-end development using Python,Java.
+
+💻 Hands-on experience with javascript, HTML5, CSS, Bootstrap.
+
+✔️ Apart from this, I have work experience as web developer from Shya Tech Labs ,Widhya as a mission advocate and Geeksforgeeks as a content writer.
+
+✔️ Apart from this, I am currently working in Pepper as content creator.
+
+🏅 Apart from this I love to code. I've 6 🌟 in problem solving, 5 🌟 in C,CPP, Java, Python and 30 days of code from Hackerrank.
+
+📧You can me reach me out- sakshiparikh23@gmail.com
 
 <!--
 **sakshiparikh23/sakshiparikh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
