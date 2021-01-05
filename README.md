@@ -22,7 +22,7 @@ Quite a dramatic introduction but good enough to keep you hooked to read further
 
 If this is what you are looking for - You have landed on the right profile.
 
-Who exactly is Sakshi?
+Who exactly is Sakshi?🤔
 
 👋I consider myself as a determined and hard working student. I am an experienced developer skilled in C, C++, Java, Python,Javascript, CSS,HTML.
 
@@ -43,19 +43,19 @@ Who exactly is Sakshi?
 Sounds like something you need? Then let's connect!
 📧- sakshiparikh23@gmail.com
 
-PS: Currently, I am looking for internships and research projects in the field of Computer science and engineering i.e SDE Intern, Analyst and Content Writing roles.
+🔭PS: Currently, I am looking for internships and research projects in the field of Computer science and engineering i.e SDE Intern, Analyst and Content Writing roles.
 
 <!--
 **sakshiparikh23/sakshiparikh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on  Django
-- 🌱 I’m currently learning Competitive Programming
+- 🔭 I’m currently working on Django,Python 
+- 🌱 I’m currently looking for growth.
 - 👯 I’m looking to collaborate on full stack projects.
 - 🤔 I’m looking for help with backend services and API's.
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+- 💬 Ask me about Python,Java.
+- 📫 How to reach me:sakshiparikh23@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![hello](https://user-images.githubusercontent.com/40533390/87654980-43c05280-c775-11ea-93b2-afd74e1826c4.gif)
