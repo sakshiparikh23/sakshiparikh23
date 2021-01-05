@@ -50,7 +50,7 @@ Sounds like something you need? Then let's connect!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Django,Python 
+- 🔭 I’m currently working on Django,Python. 
 - 🌱 I’m currently looking for growth.
 - 👯 I’m looking to collaborate on full stack projects.
 - 🤔 I’m looking for help with backend services and API's.
