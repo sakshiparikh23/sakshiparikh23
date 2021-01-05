@@ -16,15 +16,20 @@
 <br>
 
 
-👋Hello! I am Sakshi Parikh. I consider myself as a determined and hard working student. I am an experienced developer skilled in C, C++, Java, Python,Javascript, CSS,HTML.
+Let's put an end to boring introductions and start with style. Blazer on, pen in hand and glasses adjusted, here I present to you Sakshi Parikh, Computer Engineer, Software Developer Intern & Content Writer Intern.
 
-💼I am looking for growth. Currently, I am looking for internships and research projects in the field of Computer science and engineering.
+Quite a dramatic introduction but good enough to keep you hooked to read further right?
 
-💻My activities are much beyond and unique. I have been part of India's largest hackathon which is SIH 2019 where I was one of the finalist.
+If this is what you are looking for - You have landed on the right profile.
 
-💼Also, I have participated in other Hackathon's naming DJSCE, IIT Bombay and MIT Pune.
+Who exactly is Sakshi?
+👋I consider myself as a determined and hard working student. I am an experienced developer skilled in C, C++, Java, Python,Javascript, CSS,HTML.
 
-💻 Hands-on experience in back-end development using Python,Java.
+👩‍💻My activities are much beyond and unique. I have been part of India's largest hackathon which is SIH 2019 where I was one of the finalist.
+
+👩‍💼Also, I have participated in other Hackathon's naming DJSCE, IIT Bombay and MIT Pune.
+
+👩‍💻 Hands-on experience in back-end development using Python,Java.
 
 💻 Hands-on experience with javascript, HTML5, CSS, Bootstrap.
 
@@ -34,7 +39,10 @@
 
 🏅 Apart from this I love to code. I've 6 🌟 in problem solving, 5 🌟 in C,CPP, Java, Python and 30 days of code from Hackerrank.
 
-📧You can me reach me out- sakshiparikh23@gmail.com
+Sounds like something you need? Then let's connect!
+📧- sakshiparikh23@gmail.com
+
+PS: Currently, I am looking for internships and research projects in the field of Computer science and engineering i.e SDE Intern, Analyst and Content Writing roles.
 
 <!--
 **sakshiparikh23/sakshiparikh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
