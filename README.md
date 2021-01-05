@@ -23,6 +23,7 @@ Quite a dramatic introduction but good enough to keep you hooked to read further
 If this is what you are looking for - You have landed on the right profile.
 
 Who exactly is Sakshi?
+
 👋I consider myself as a determined and hard working student. I am an experienced developer skilled in C, C++, Java, Python,Javascript, CSS,HTML.
 
 👩‍💻My activities are much beyond and unique. I have been part of India's largest hackathon which is SIH 2019 where I was one of the finalist.
