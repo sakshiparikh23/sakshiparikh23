@@ -34,16 +34,15 @@ Who exactly is Sakshi?🤔
 
 💻 Hands-on experience with javascript, HTML5, CSS, Bootstrap.
 
-✔️ Apart from this, I have work experience as web developer from Shya Tech Labs ,Widhya as a mission advocate and Geeksforgeeks as a content writer.
-
-✔️ Apart from this, I am currently working in Pepper as content creator.
+✔️ Apart from this, I have work experience as web developer from Shya Tech Labs ,Widhya as a mission advocate and Geeksforgeeks & Pepper as a content writer/creator.
 
 🏅 Apart from this I love to code. I've 6 🌟 in problem solving, 5 🌟 in C,CPP, Java, Python and 30 days of code from Hackerrank.
 
 Sounds like something you need? Then let's connect!
 📧- sakshiparikh23@gmail.com
 
-🔭PS: Currently, I am looking for internships and research projects in the field of Computer science and engineering i.e SDE Intern, Analyst and Content Writing roles.
+PS: Currently, I am looking for internships and research projects in the field of Computer science and engineering i.e SDE Intern, Analyst and Content Writing roles.
+Also, I do take up freelance roles.
 
 <!--
 **sakshiparikh23/sakshiparikh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
