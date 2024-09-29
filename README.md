@@ -42,7 +42,6 @@ Sounds like something you need? Then let's connect!
 📧- sakshiparikh23@gmail.com
 
 PS: Currently, I am looking for internships and research projects in the field of Computer science and engineering i.e SDE Intern, Analyst and Content Writing roles.
-Also, I do take up freelance roles.
 
 <!--
 **sakshiparikh23/sakshiparikh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
